@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 你好！
 
-<!--
-**HollowMan6/HollowMan6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://hollowman6.github.io/img/mark.png)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://hollowman6.github.io/fund.html)
 
-Here are some ideas to get you started:
+🌱 Currently I'm a sophomore undergraduate majoring in **Computer Science** at ***Lanzhou University***. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+目前我是一名 ***兰州大学*** **计算机专业** 大二本科生。
+
+😄 *Because I'm a full-time student, I don't have any income sources. If you find my projects interesting and useful, you can [buy me a drink or meal](https://hollowman6.github.io/fund.html). Thanks for your donation. Every bit of donation will be the driving force for me to move forward.*
+
+***Also, if you can, please go to my website and click on the ADVERTISEMENT section. This is also a way to SUPPORT ME.❤ ❤ ❤ Thanks!***
+
+***谢谢你的捐助。每一点的捐助都将是我前进的动力！***
+
+### Useful Links 📫 友情链接
+
+* [My Website](https://hollowman6.github.io/) 
+* [My Github](https://github.com/HollowMan6/) 
+* [My Linkedin](https://www.linkedin.com/in/%E8%92%8B%E5%B5%A9%E6%9E%97/)
