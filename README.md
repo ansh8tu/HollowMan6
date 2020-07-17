@@ -2,7 +2,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://hollowman6.github.io/fund.html)
 
-<img src="https://hollowman6.github.io/img/mark.png" width="400">
+<img src="https://hollowman6.github.io/img/mark.png" width="300">
 
 🌱 Currently I'm a sophomore undergraduate majoring in **Computer Science** at ***Lanzhou University***. 
 
@@ -13,8 +13,6 @@
 ❤ ***Also, if you can, please go to my website and click on the ADVERTISEMENT section. This is also a way to SUPPORT ME.❤ ❤ ❤ Thanks!***
 
 ***谢谢你的捐助。每一点的捐助都将是我前进的动力！***
-
-<iframe src="https://github.com/sponsors/HollowMan6/card" title="Sponsor HollowMan6" height="225" width="600" style="border: 0;"></iframe>
 
 ### Useful Links 📫 友情链接
 
