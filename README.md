@@ -13,10 +13,10 @@
 
 ❤ ***Also, if you can, please go to my website and click on the ADVERTISEMENT section. This is also a way to SUPPORT ME.❤ ❤ ❤ Thanks!***
 
-***谢谢你的捐助。每一点的捐助都将是我前进的动力！***
+***谢谢您的捐助。每一点的捐助都将是我前进的动力！***
 
 ### Useful Links 📫 友情链接
 
-* [Sponsor ME](https://hollowman6.github.io/fund.html) 
-* [My Website](https://hollowman6.github.io/) 
-* [My Linkedin](https://www.linkedin.com/in/%E8%92%8B%E5%B5%A9%E6%9E%97/)
+* [Sponsor ME  ⚡ 捐助我](https://hollowman6.github.io/fund.html) 
+* [My Website  ⚡ 我的网站](https://hollowman6.github.io/) 
+* [My Linkedin ⚡ 我的领英](https://www.linkedin.com/in/%E8%92%8B%E5%B5%A9%E6%9E%97/)
