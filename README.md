@@ -1,5 +1,6 @@
 ### Hi there 👋 你好！
 
+[![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://hollowman6.github.io/fund.html)
 
 <img src="https://hollowman6.github.io/img/mark.png" width="300">
