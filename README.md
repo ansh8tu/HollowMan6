@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-Hollow%20Man-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%E8%92%8B%E5%B5%A9%E6%9E%97/?locale=en_US)](https://www.linkedin.com/in/%E8%92%8B%E5%B5%A9%E6%9E%97/?locale=en_US)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://hollowman6.github.io/fund.html)
 
-<img src="https://hollowman6.github.io/img/mark.png" width="300">
+<img src="https://hollowman6.github.io/img/mark.png" width="370">
 
 🌱 Currently I'm a sophomore undergraduate majoring in **Computer Science** at ***Lanzhou University***. 
 
@@ -20,4 +20,3 @@
 
 * [Sponsor ME  ⚡ 捐助我](https://hollowman6.github.io/fund.html) 
 * [My Website  ⚡ 我的网站](https://hollowman6.github.io/) 
-* [My Linkedin ⚡ 我的领英](https://www.linkedin.com/in/%E8%92%8B%E5%B5%A9%E6%9E%97/)
