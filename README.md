@@ -1,8 +1,10 @@
 ### Hi there 👋 你好！
 
-[![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers)
 [![Linkedin](https://img.shields.io/badge/-Hollow%20Man-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%E8%92%8B%E5%B5%A9%E6%9E%97/?locale=en_US)](https://www.linkedin.com/in/%E8%92%8B%E5%B5%A9%E6%9E%97/?locale=en_US)
+[![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://hollowman6.github.io/fund.html)
+[![Twitter](https://img.shields.io/twitter/follow/HollowM186?style=social)](https://twitter.com/intent/follow?screen_name=HollowM186)
+[![Gitlab](https://img.shields.io/badge/-Hollow%20Man-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/HollowMan6)](https://gitlab.com/HollowMan6)
 
 <img src="https://hollowman6.github.io/img/mark.png" width="370">
 
