@@ -6,7 +6,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/HollowM186?style=social)](https://twitter.com/intent/follow?screen_name=HollowM186)
 [![Gitlab](https://img.shields.io/badge/-Hollow%20Man-orange?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/HollowMan6)](https://gitlab.com/HollowMan6)
 
-<img src="https://hollowman6.github.io/img/mark.png" width="370">
+<img align="center" src="https://hollowman6.github.io/img/mark.png" width="370">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HollowMan6&count_private=true&show_icons=true" /> 
 
