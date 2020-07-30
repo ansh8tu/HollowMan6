@@ -45,4 +45,5 @@
 ### Useful Links 📫 友情链接
 
 * [Sponsor ME  ⚡ 捐助我](https://hollowman6.github.io/fund.html) 
+* [Personal CV ](https://github.com/HollowMan6/HollowMan6.github.io/tree/master/CV/CV-Songlin-Jiang-English.pdf)⚡[ 个人简历](https://github.com/HollowMan6/HollowMan6.github.io/tree/master/CV/CV-%E8%92%8B%E5%B5%A9%E6%9E%97-%E4%B8%AD%E6%96%87.pdf) 
 * [My Website  ⚡ 我的网站](https://hollowman6.github.io/) 
