@@ -14,7 +14,7 @@
     <img alt="Followers" src="https://img.shields.io/github/followers/HollowMan6?style=social" />
   </a>
   <a href="https://hollowman6.github.io/fund.html">
-    <img alt="Open Source Love" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
+    <img alt="Open Source Love" src="https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-Green?style=flat-square&logo=Github&logoColor=white&link=https://hollowman6.github.io/fund.html" />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=HollowM186">
     <img alt="Twitter" src="https://img.shields.io/twitter/follow/HollowM186?style=social" />
