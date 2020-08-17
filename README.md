@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/%E8%92%8B%E5%B5%A9%E6%9E%97/?locale=en_US">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-Hollow%20Man-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%E8%92%8B%E5%B5%A9%E6%9E%97/?locale=en_US" />
+  <a href="https://hollowman6.github.io/Linkedin">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Hollow%20Man-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://hollowman6.github.io/Linkedin" />
   </a>
   <a href="https://github.com/HollowMan6?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/HollowMan6?style=social" />
@@ -45,5 +45,5 @@
 ### Useful Links 📫 友情链接
 
 * [Sponsor ME  ⚡ 捐助我](https://hollowman6.github.io/fund.html) 
-* [Personal CV ](https://github.com/HollowMan6/HollowMan6.github.io/tree/master/CV/CV-Songlin-Jiang-English.pdf)⚡[ 个人简历](https://github.com/HollowMan6/HollowMan6.github.io/tree/master/CV/CV-%E8%92%8B%E5%B5%A9%E6%9E%97-%E4%B8%AD%E6%96%87.pdf) 
+* [Personal CV ](https://hollowman6.github.io/CV/?language=en)⚡[ 个人简历](https://hollowman6.github.io/CV/?language=cn) 
 * [My Website  ⚡ 我的网站](https://hollowman6.github.io/) 
