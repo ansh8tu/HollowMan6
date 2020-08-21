@@ -38,7 +38,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowMan6&layout=compact&hide=html" />
 </a>
 
-❤ ***Also, if you can, please go to my website and click on the ADVERTISEMENT section. This is also a way to SUPPORT ME.❤ ❤ ❤ Thanks!***
+❤ ***Also, if you can, please go to my website and click on the [ADVERTISEMENT](http://hollowman6.github.io/index.html#Advertisement) section. This is also a way to SUPPORT ME.❤ ❤ ❤ Thanks!***
 
 ***谢谢您的捐助。每一点的捐助都将是我前进的动力！***
 
