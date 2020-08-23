@@ -25,7 +25,7 @@
 </p>
 
 <a href="http://hollowman6.github.io/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=HollowMan6&count_private=true&show_icons=true" /> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hollowman6&bg_color=80,93C3C7,d19597&title_color=eee&text_color=eee&count_private=true&show_icons=true" /> 
 </a>
 
 🌱 Currently I'm a 2018 undergraduate majoring in **Computer Science** at ***Lanzhou University***. 
@@ -35,7 +35,7 @@
 😄 *Because I'm a full-time student, I don't have any income sources. If you find my projects interesting and useful, you can [buy me a drink or meal](https://hollowman6.github.io/fund.html). Thanks for your donation. Every bit of donation will be the driving force for me to move forward.*
 
 <a href="http://hollowman6.github.io/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowMan6&layout=compact&hide=html" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowMan6&layout=compact&hide=jupyter%20notebook&bg_color=80,d19597,93C3C7&title_color=eee&text_color=eee" />
 </a>
 
 ❤ ***Also, if you can, please go to my website and click on the [ADVERTISEMENT](http://hollowman6.github.io/index.html#Advertisement) section. This is also a way to SUPPORT ME.❤ ❤ ❤ Thanks!***
