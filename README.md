@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="http://hollowman6.github.io/">
-    <img src="https://hollowman6.github.io/img/mark.png" width="370" />
+    <img src="https://hollowman6.github.io/img/logo.gif" width="370" />
   </a>
 </p>
 
