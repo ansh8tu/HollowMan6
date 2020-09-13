@@ -7,6 +7,13 @@
 </p>
 
 <p align="center">
+  <a href="http://hollowman6.github.io/">
+    <img src="https://komarev.com/ghpvc/?username=HollowMan6&style=flat-square" alt="Hollow Man" />
+  </a>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</p>
+
+<p align="center">
   <a href="https://hollowman6.github.io/Linkedin">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Hollow%20Man-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://hollowman6.github.io/Linkedin" />
   </a>
