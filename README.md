@@ -31,7 +31,7 @@
   </a>
 </p>
 
-### [About ME 📄 关于我](https://github.com/HollowMan6/HollowMan6/blob/master/Personal%20Statement.md)
+### [About ME](https://github.com/HollowMan6/HollowMan6/blob/master/Personal%20Statement.md) 📄 [关于我](https://github.com/HollowMan6/HollowMan6/blob/master/个人陈述.md)
 
 <a href="http://hollowman6.github.io/">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=hollowman6&bg_color=80,93C3C7,d19597&title_color=eee&text_color=eee&count_private=true&show_icons=true" /> 

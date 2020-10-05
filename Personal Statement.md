@@ -5,6 +5,8 @@
 [![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers) 
 [![Open Source Love](https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-Green?style=flat-square&logo=Github&logoColor=white&link=https://hollowman6.github.io/fund.html)](https://hollowman6.github.io/fund.html)
 
+[中文版](个人陈述.md)
+
 Looking back into my past, when I got my own computer at 8, I instantly fell in love with it. As I managed to ran Linux From Scratch and Hackintosh on my computer and saw the amazement in programming during middle school, this love grew deeper and deeper. Then in 2018 I began my undergraduate life majoring in Computer Science at Lanzhou University and successfully entered Honour Class (Specialized Class for Fundamentals and Theories).
 
 Upon entering the university, I began to develop enthusiasm in Open Source guided by senior students at Lanzhou University Open Source Society. I set up my own Github account (@HollowMan6) and whenever I wrote some interesting programmes, I would make a repository for it and post it on Github. I really appreciate the open source spirit and devote most of my free time contributing on Github. I have contributed to many popular projects including TensorFlow etc. This helps me gain 1.5k followers and nearly 100 stars on Github.
