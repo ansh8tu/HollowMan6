@@ -52,6 +52,8 @@
 
 ***❤ 谢谢您的捐助！❤ ❤ ❤ 每一点的捐助都将是我前进的动力！***
 
+**备用主页： https://hollowman6.gitee.io**
+
 ### Useful Links 📫 友情链接
 
 * [Sponsor ME  ⚡ 捐助我](https://hollowman6.github.io/fund.html) 
