@@ -59,3 +59,4 @@
 * [Sponsor ME  ⚡ 捐助我](https://hollowman6.github.io/fund.html) 
 * [Personal CV ](https://hollowman6.github.io/CV/?language=en)⚡[ 个人简历](https://hollowman6.github.io/CV/?language=cn) 
 * [My Website  ⚡ 我的网站](https://hollowman6.github.io/) 
+* [Google Scholar](https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ)
