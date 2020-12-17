@@ -1,7 +1,3 @@
-<script>
-alert("HI");
-</script>
-
 <h3 align="center">Hi there 👋 你好！</h3>
 
 <p align="center">
