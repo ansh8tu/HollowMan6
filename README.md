@@ -1,10 +1,6 @@
-<style>
-@media (prefers-color-scheme: dark) {
-  #logo {
-    content:url(https://hollowman6.github.io/img/logo-night.gif);
-  }
-}
-</style>
+<script>
+alert("HI");
+</script>
 
 <h3 align="center">Hi there 👋 你好！</h3>
 
