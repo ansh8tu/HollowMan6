@@ -1,8 +1,16 @@
+<style>
+@media (prefers-color-scheme: dark) {
+  #logo {
+    content:url(https://hollowman6.github.io/img/logo-night.gif);
+  }
+}
+</style>
+
 <h3 align="center">Hi there 👋 你好！</h3>
 
 <p align="center">
   <a href="http://hollowman6.github.io/">
-    <img src="https://hollowman6.github.io/img/logo.gif" width="370" />
+    <img id="logo" src="https://hollowman6.github.io/img/logo.gif" width="370" />
   </a>
 </p>
 
