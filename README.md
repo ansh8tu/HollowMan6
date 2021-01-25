@@ -64,12 +64,9 @@
 * [My Website  ⚡ 我的网站](https://hollowman6.github.io/) 
 * [Google Scholar](https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ)
 
-<p align="left" style="float: left">
+<p align="left">
 <a href="http://hollowman6.github.io/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowMan6&layout=compact&bg_color=0D1117&text_color=FFFFFF&langs_count=10&hide_border=true" width="330px"/>
 </a>
+<strong>Thanks for visiting this page :-) Please continue your visit:</strong>
 </p>
-
-<h3>
-Thanks for visiting this page :-)! Wish you have a good time here. Below are some of my popular repositories:
-</h3>
