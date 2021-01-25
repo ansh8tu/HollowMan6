@@ -53,7 +53,7 @@
 
 ***❤ 点击[这里](https://hollowman6.github.io/fund.html)可以捐助我，谢谢您的捐助！❤ ❤ ❤ 每一点的捐助都将是我前进的动力！***
 
-**备用主页： https://hollowman6.gitee.io**
+**备用主页 for 🇨🇳： https://hollowman6.gitee.io**
 
 ### Useful Links 📫 友情链接
 
@@ -64,6 +64,6 @@
 
 <p align="left">
 <a href="http://hollowman6.github.io/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowMan6&layout=compact&bg_color=0D1117&text_color=FFFFFF&langs_count=10&hide_border=true" width="320px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowMan6&layout=compact&bg_color=0D1117&text_color=FFFFFF&langs_count=10&hide_border=true" width="330px"/>
 </a>
 </p>
