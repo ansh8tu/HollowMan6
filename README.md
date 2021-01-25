@@ -53,7 +53,7 @@
 
 😄 *Because I'm a full-time student, I don't have any income sources. If you find my projects interesting or useful, you can [buy me a drink 🥤 or a meal 🍚](https://hollowman6.github.io/fund.html). THANKS for your sponsor. Every bit of DONATION will be the driving force for me to move forward.* ❤ 
 
-***[点击这里可以捐助💰️我 ❤](https://hollowman6.github.io/fund.html)，谢谢您的捐助！❤ ❤ 每一点的捐助都将是我前进的动力！***
+***[点击这里可以💰️捐助我 ❤](https://hollowman6.github.io/fund.html)，谢谢您的捐助！❤ ❤ ❤ 每一点的捐助都将是我前进的动力！***
 
 ### Useful Links 📫 友情链接
 
