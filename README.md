@@ -36,25 +36,22 @@
 <a href="https://github.com/HollowMan6/HollowMan6/blob/master/个人陈述.md">关于我</a>
 </h3>
 
-<p align="center">
-<img align="center" src="https://metrics.lecoq.io/HollowMan6?base.metadata=0" /> 
-</p>
-
 <a href="http://hollowman6.github.io/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hollowman6&bg_color=0D1117&text_color=FFFFFF&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" /> 
+<img align="right" src="https://metrics.lecoq.io/HollowMan6?base.metadata=0" />
 </a>
 
 🌱 Currently I'm a 2018 undergraduate majoring in **Computer Science** at ***Lanzhou University***. 
 
 目前我是一名 ***兰州大学*** **计算机专业** 2018级本科生。
 
-😄 *Because I'm a full-time student, I don't have any income sources. If you find my projects interesting and useful, you can [buy me a drink or meal](https://hollowman6.github.io/fund.html). Thanks for your donation. Every bit of donation will be the driving force for me to move forward.* ❤ 
 
 <a href="http://hollowman6.github.io/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowMan6&layout=compact&bg_color=0D1117&text_color=FFFFFF&langs_count=10&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hollowman6&bg_color=0D1117&text_color=FFFFFF&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" /> 
 </a>
 
-***❤ 谢谢您的捐助！❤ ❤ ❤ 每一点的捐助都将是我前进的动力！***
+😄 *Because I'm a full-time student, I don't have any income sources. If you find my projects interesting and useful, you can [buy me a drink or meal](https://hollowman6.github.io/fund.html). Thanks for your donation. Every bit of donation will be the driving force for me to move forward.* ❤ 
+
+***❤ 点击[这里](https://hollowman6.github.io/fund.html)可以捐助我，谢谢您的捐助！❤ ❤ ❤ 每一点的捐助都将是我前进的动力！***
 
 **备用主页： https://hollowman6.gitee.io**
 
@@ -64,3 +61,9 @@
 * [Personal CV ](https://hollowman6.github.io/CV/?language=en)⚡[ 个人简历](https://hollowman6.github.io/CV/?language=cn) 
 * [My Website  ⚡ 我的网站](https://hollowman6.github.io/) 
 * [Google Scholar](https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ)
+
+<p align="left">
+<a href="http://hollowman6.github.io/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowMan6&layout=compact&bg_color=0D1117&text_color=FFFFFF&langs_count=10&hide_border=true" width="300px"/>
+</a>
+</p>
