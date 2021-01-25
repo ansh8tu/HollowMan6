@@ -64,6 +64,6 @@
 
 <p align="left">
 <a href="http://hollowman6.github.io/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowMan6&layout=compact&bg_color=0D1117&text_color=FFFFFF&langs_count=10&hide_border=true" width="300px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowMan6&layout=compact&bg_color=0D1117&text_color=FFFFFF&langs_count=10&hide_border=true"/>
 </a>
 </p>
