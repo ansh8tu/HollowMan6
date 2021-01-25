@@ -53,9 +53,9 @@
 
 ***❤ 点击[这里](https://hollowman6.github.io/fund.html)可以捐助我，谢谢您的捐助！❤ ❤ ❤ 每一点的捐助都将是我前进的动力！***
 
-**备用主页 for 🇨🇳： https://hollowman6.gitee.io**
-
 ### Useful Links 📫 友情链接
+
+**备用主页 for 🇨🇳： https://hollowman6.gitee.io**
 
 * [Sponsor ME  ⚡ 捐助我](https://hollowman6.github.io/fund.html) 
 * [Personal CV ](https://hollowman6.github.io/CV/?language=en)⚡[ 个人简历](https://hollowman6.github.io/CV/?language=cn) 
