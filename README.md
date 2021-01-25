@@ -49,9 +49,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=hollowman6&bg_color=0D1117&text_color=FFFFFF&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" /> 
 </a>
 
-😄 *Because I'm a full-time student, I don't have any income sources. If you find my projects interesting and useful, you can [buy me a drink or meal](https://hollowman6.github.io/fund.html). Thanks for your donation. Every bit of donation will be the driving force for me to move forward.* ❤ 
+😄 *Because I'm a full-time student, I don't have any income sources. If you find my projects interesting and useful, you can [buy me a drink🥤 or meal🍚](https://hollowman6.github.io/fund.html). Thanks for your donation. Every bit of donation will be the driving force for me to move forward.* ❤ 
 
-***❤ 点击[这里](https://hollowman6.github.io/fund.html)可以捐助我，谢谢您的捐助！❤ ❤ ❤ 每一点的捐助都将是我前进的动力！***
+***❤ 点击[这里](https://hollowman6.github.io/fund.html)可以捐助💰️我，谢谢您的捐助！❤ ❤ ❤ 每一点的捐助都将是我前进的动力！***
 
 ### Useful Links 📫 友情链接
 
