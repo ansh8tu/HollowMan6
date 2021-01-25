@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, WELCOME 👋 你好, 欢迎！</h3>
+<h3 align="center">Hi, and WELCOME 👋 你好, 欢迎！</h3>
 
 <p align="center">
   <a href="http://hollowman6.github.io/">
