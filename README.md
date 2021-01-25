@@ -65,8 +65,8 @@
 * [Google Scholar](https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ)
 
 <p align="left">
-<a href="http://hollowman6.github.io/">
+<a href="http://hollowman6.github.io/" style="float:left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowMan6&layout=compact&bg_color=0D1117&text_color=FFFFFF&langs_count=10&hide_border=true" width="330px"/>
 </a>
-<strong>Thanks for visiting this page :-) Please continue your visit:</strong>
+<h3 align="center">Thanks for visiting this page :-) Wish you have a good time here! Please continue your visit:</h3>
 </p>
