@@ -36,6 +36,10 @@
 <a href="https://github.com/HollowMan6/HollowMan6/blob/master/个人陈述.md">关于我</a>
 </h3>
 
+<p align="center">
+<img align="center" src="https://metrics.lecoq.io/HollowMan6?base.metadata=0" /> 
+</p>
+
 <a href="http://hollowman6.github.io/">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=hollowman6&bg_color=0D1117&text_color=FFFFFF&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" /> 
 </a>
