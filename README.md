@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋 你好！</h3>
+<h3 align="center">Hi there, WELCOME 👋 你好, 欢迎！</h3>
 
 <p align="center">
   <a href="http://hollowman6.github.io/">
@@ -51,9 +51,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=hollowman6&bg_color=0D1117&text_color=FFFFFF&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" /> 
 </a>
 
-😄 *Because I'm a full-time student, I don't have any income sources. If you find my projects interesting and useful, you can [buy me a drink🥤 or meal🍚](https://hollowman6.github.io/fund.html). Thanks for your donation. Every bit of donation will be the driving force for me to move forward.* ❤ 
+😄 *Because I'm a full-time student, I don't have any income sources. If you find my projects interesting or useful, you can [buy me a drink 🥤 or a meal 🍚](https://hollowman6.github.io/fund.html). THANKS for your sponsor. Every bit of DONATION will be the driving force for me to move forward.* ❤ 
 
-***❤ 点击[这里](https://hollowman6.github.io/fund.html)可以捐助💰️我，谢谢您的捐助！❤ ❤ ❤ 每一点的捐助都将是我前进的动力！***
+***[点击这里可以捐助💰️我 ❤](https://hollowman6.github.io/fund.html)，谢谢您的捐助！❤ ❤ 每一点的捐助都将是我前进的动力！***
 
 ### Useful Links 📫 友情链接
 
@@ -65,8 +65,9 @@
 * [Google Scholar](https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ)
 
 <p align="left">
-<a href="http://hollowman6.github.io/" style="float:left">
+<a href="http://hollowman6.github.io/">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowMan6&layout=compact&bg_color=0D1117&text_color=FFFFFF&langs_count=10&hide_border=true" width="330px"/>
 </a>
-<h3 align="center">Thanks for visiting this page :-) Wish you have a good time here! Please continue your visit:</h3>
 </p>
+
+<h3 align="center">Thanks for visiting my Github :-) Wish you have a good time here! 🎉 Please continue your visit ↓</h3>
