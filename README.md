@@ -40,7 +40,7 @@
 <img align="right" src="https://metrics.lecoq.io/HollowMan6?base.metadata=0" />
 </a>
 
-🌱 Currently I'm a 2018 undergraduate majoring in **Computer Science** at ***[Lanzhou University](http://xxxyen.lzu.edu.cn/)***. 
+🌱 Currently I'm a 2018 undergraduate majoring in **Computer Science** at ***[Lanzhou University](http://xxxyen.lzu.edu.cn/), 🇨🇳***. 
 
 目前我是一名 ***兰州大学*** **计算机专业** 2018级本科生。
 
@@ -64,6 +64,6 @@
 
 <p align="left">
 <a href="http://hollowman6.github.io/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowMan6&layout=compact&bg_color=0D1117&text_color=FFFFFF&langs_count=10&hide_border=true" width="340px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowMan6&layout=compact&bg_color=0D1117&text_color=FFFFFF&langs_count=10&hide_border=true" width="320px"/>
 </a>
 </p>
