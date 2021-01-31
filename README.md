@@ -63,6 +63,7 @@
 * [Personal CV ](https://hollowman6.github.io/CV/?language=en)⚡[ 个人简历](https://hollowman6.github.io/CV/?language=cn) 
 * [My Website  ⚡ 我的网站](https://hollowman6.github.io/) 
 * [Google Scholar](https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ)
+* [Hacknical](https://hacknical.com/HollowMan6/github)
 
 <p align="left">
 <a href="http://hollowman6.github.io/">
