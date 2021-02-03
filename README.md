@@ -59,9 +59,7 @@
 
 <details> 
   <summary>
-    <span style="font-size: 1.25em">
       <strong>Useful Links 📫 友情链接</strong>
-    </span>
   </summary>
 
 * [Sponsor ME  ⚡ 捐助我](https://hollowman6.github.io/fund.html) 
