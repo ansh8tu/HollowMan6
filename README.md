@@ -55,15 +55,20 @@
 
 ***[点击这里可以💰️捐助我 ❤](https://hollowman6.github.io/fund.html)，谢谢您的捐助！❤ ❤ ❤ 每一点的捐助都将是我前进的动力！***
 
-### Useful Links 📫 友情链接
-
 **备用主页 for 🇨🇳： https://hollowman6.gitee.io**
+
+<details> 
+  <summary style="font-size: 1.25em"><strong>
+  Useful Links 📫 友情链接</strong>
+  </summary>
 
 * [Sponsor ME  ⚡ 捐助我](https://hollowman6.github.io/fund.html) 
 * [Personal CV ](https://hollowman6.github.io/CV/?language=en)⚡[ 个人简历](https://hollowman6.github.io/CV/?language=cn) 
 * [My Website  ⚡ 我的网站](https://hollowman6.github.io/) 
 * [Google Scholar](https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ)
 * [Hacknical](https://hacknical.com/HollowMan6/github)
+
+</details>
 
 <p align="left">
 <a href="http://hollowman6.github.io/">
