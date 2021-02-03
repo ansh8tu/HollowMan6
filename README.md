@@ -58,8 +58,10 @@
 **备用主页 for 🇨🇳： https://hollowman6.gitee.io**
 
 <details> 
-  <summary style="font-size: 1.25em"><strong>
-  Useful Links 📫 友情链接</strong>
+  <summary>
+    <span style="font-size: 1.25em">
+      <strong>Useful Links 📫 友情链接</strong>
+    </span>
   </summary>
 
 * [Sponsor ME  ⚡ 捐助我](https://hollowman6.github.io/fund.html) 
@@ -67,7 +69,6 @@
 * [My Website  ⚡ 我的网站](https://hollowman6.github.io/) 
 * [Google Scholar](https://scholar.google.com/citations?user=F7Z3Fd0AAAAJ)
 * [Hacknical](https://hacknical.com/HollowMan6/github)
-
 </details>
 
 <p align="left">
